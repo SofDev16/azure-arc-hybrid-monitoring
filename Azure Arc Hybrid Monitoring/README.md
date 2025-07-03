@@ -1,40 +1,24 @@
 🔧 Azure Arc Hybrid Monitoring & Compliance Setup
 
-📌 Overview
-This project demonstrates how to onboard an on-premises Windows Server to Azure Arc, enabling centralized monitoring, compliance, and policy enforcement.
+ 📌 Overview
+This project demonstrates onboarding an on-premises Windows Server to Azure Arc for centralized monitoring and policy enforcement using Azure services.
 
  🛠️ Technologies Used
 - Azure Arc
+- Azure Monitor & Policy
 - Azure Bastion
-- Azure Monitor / Log Analytics
-- Azure Policy
 - HIMDS (Hybrid Instance Metadata Service)
 - Windows Server
-- Command Prompt
-
- 📸 Screenshots
-
- ✅ Azure Arc Resources  
-[![Azure Arc Resources](./screenshots/azure-arc-resources.png)](./screenshots/azure-arc-resources.png)
-
- 🖥️ HIMDS Enabled  
-[![HIMDS Service](./screenshots/himds-service-enabled.png)](./screenshots/himds-service-enabled.png)
-
- 🔍 azcmagent CLI Output  
-[![azcmagent show](./screenshots/azcmagent-show.png)](./screenshots/azcmagent-show.png)
+- Azure CLI (`azcmagent`)
 
  🧩 Key Tasks Completed
-- Connected a Windows VM to Azure using Azure Arc
-- Enabled HIMDS and validated Azure agent with `azcmagent show`
-- Applied Azure Policy for compliance
-- Used Azure Bastion for secure access
-- Connected VM to Log Analytics for monitoring
+- Connected a Windows VM to Azure via Azure Arc
+- Enabled HIMDS and verified agent status with `azcmagent`
+- Applied Azure Policies for monitoring compliance
+- Used Azure Bastion for secure remote access
 
  💡 Skills Demonstrated
 - Hybrid cloud configuration
-- Policy enforcement
-- Secure VM access
-- CLI monitoring validation
-
- Lessons Learned
-Azure Arc makes hybrid infrastructure manageable with cloud-native tools.
+- Monitoring and compliance in Azure
+- Secure VM access without public IP
+- CLI-based cloud validation
