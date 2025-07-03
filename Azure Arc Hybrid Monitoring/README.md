@@ -14,14 +14,14 @@ This project demonstrates how to onboard an on-premises Windows Server to Azure 
 
  📸 Screenshots
 
- ✅ Azure Arc Resources
-[Azure Arc Resources](./screenshots/azure-arc-resources.png)
+ ✅ Azure Arc Resources  
+[![Azure Arc Resources](./screenshots/azure-arc-resources.png)](./screenshots/azure-arc-resources.png)
 
- 🖥️ HIMDS Enabled
-[HIMDS Service](./screenshots/himds-service-enabled.png)
+ 🖥️ HIMDS Enabled  
+[![HIMDS Service](./screenshots/himds-service-enabled.png)](./screenshots/himds-service-enabled.png)
 
- 🔍 azcmagent CLI Output
-[azcmagent show](./screenshots/azcmagent-show.png)
+ 🔍 azcmagent CLI Output  
+[![azcmagent show](./screenshots/azcmagent-show.png)](./screenshots/azcmagent-show.png)
 
  🧩 Key Tasks Completed
 - Connected a Windows VM to Azure using Azure Arc
