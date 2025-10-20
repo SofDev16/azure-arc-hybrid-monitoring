@@ -10,12 +10,14 @@ Azure Bastion
 HIMDS (Hybrid Instance Metadata Service)
 Windows Server
 Azure CLI (azcmagent)
+
 🧩 Key Tasks Completed
 
 Connected a Windows VM to Azure via Azure Arc
 Enabled HIMDS and verified agent status with azcmagent
 Applied Azure Policies for monitoring compliance
 Used Azure Bastion for secure remote access
+
 💡 Skills Demonstrated
 
 Hybrid cloud configuration
