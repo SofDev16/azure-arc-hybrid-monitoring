@@ -1,6 +1,7 @@
 🔧 Azure Arc Hybrid Monitoring & Compliance Setup
 
-📌 Overview This project demonstrates onboarding an on-premises Windows Server to Azure Arc for centralized monitoring and policy enforcement using Azure services.
+📌 Overview 
+This project demonstrates onboarding an on-premises Windows Server to Azure Arc for centralized monitoring and policy enforcement using Azure services.
 
 🛠️ Technologies Used
 
